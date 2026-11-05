@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net8.0-windows</TargetFramework><UseWPF>true</UseWPF><UseWindowsForms>true</UseWindowsForms><ImplicitUsings>disable</ImplicitUsings><Nullable>enable</Nullable><StartupObject>Bird.App.Program</StartupObject><AssemblyName>BirdCompanion</AssemblyName><ApplicationManifest>app.manifest</ApplicationManifest></PropertyGroup>
+  <PropertyGroup><ApplicationIcon>Assets/bird.ico</ApplicationIcon><Version>1.2.0</Version></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../Bird.Core/Bird.Core.csproj"/><PackageReference Include="SkiaSharp" Version="2.88.9"/><Resource Include="Assets/bird.ico"/></ItemGroup>
+</Project>

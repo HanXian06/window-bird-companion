@@ -1,0 +1,186 @@
+[
+ {
+  "code": "en",
+  "iocColumn": "English"
+ },
+ {
+  "code": "ca",
+  "iocColumn": "Catalan"
+ },
+ {
+  "code": "zh-Hans",
+  "iocColumn": "Chinese"
+ },
+ {
+  "code": "zh-Hant",
+  "iocColumn": "Chinese (Traditional)"
+ },
+ {
+  "code": "hr",
+  "iocColumn": "Croatian"
+ },
+ {
+  "code": "cs",
+  "iocColumn": "Czech"
+ },
+ {
+  "code": "da",
+  "iocColumn": "Danish"
+ },
+ {
+  "code": "nl",
+  "iocColumn": "Dutch"
+ },
+ {
+  "code": "eo",
+  "iocColumn": "Esperanto"
+ },
+ {
+  "code": "fi",
+  "iocColumn": "Finnish"
+ },
+ {
+  "code": "fr",
+  "iocColumn": "French"
+ },
+ {
+  "code": "de",
+  "iocColumn": "German"
+ },
+ {
+  "code": "it",
+  "iocColumn": "Italian"
+ },
+ {
+  "code": "ja",
+  "iocColumn": "Japanese"
+ },
+ {
+  "code": "lt",
+  "iocColumn": "Lithuanian"
+ },
+ {
+  "code": "no",
+  "iocColumn": "Norwegian"
+ },
+ {
+  "code": "pl",
+  "iocColumn": "Polish"
+ },
+ {
+  "code": "pt-x-lusophone",
+  "iocColumn": "Portuguese (Lusophone)"
+ },
+ {
+  "code": "pt-PT",
+  "iocColumn": "Portuguese (Portuguese)"
+ },
+ {
+  "code": "ru",
+  "iocColumn": "Russian"
+ },
+ {
+  "code": "sr",
+  "iocColumn": "Serbian"
+ },
+ {
+  "code": "sk",
+  "iocColumn": "Slovak"
+ },
+ {
+  "code": "es",
+  "iocColumn": "Spanish"
+ },
+ {
+  "code": "sv",
+  "iocColumn": "Swedish"
+ },
+ {
+  "code": "tr",
+  "iocColumn": "Turkish"
+ },
+ {
+  "code": "uk",
+  "iocColumn": "Ukrainian"
+ },
+ {
+  "code": "af",
+  "iocColumn": "Afrikaans"
+ },
+ {
+  "code": "ar",
+  "iocColumn": "Arabic"
+ },
+ {
+  "code": "be",
+  "iocColumn": "Belarusian"
+ },
+ {
+  "code": "bg",
+  "iocColumn": "Bulgarian"
+ },
+ {
+  "code": "et",
+  "iocColumn": "Estonian"
+ },
+ {
+  "code": "fr-x-gaudin",
+  "iocColumn": "French (Gaudin)"
+ },
+ {
+  "code": "el",
+  "iocColumn": "Greek"
+ },
+ {
+  "code": "he",
+  "iocColumn": "Hebrew"
+ },
+ {
+  "code": "hu",
+  "iocColumn": "Hungarian"
+ },
+ {
+  "code": "is",
+  "iocColumn": "Icelandic"
+ },
+ {
+  "code": "id",
+  "iocColumn": "Indonesian"
+ },
+ {
+  "code": "ko",
+  "iocColumn": "Korean"
+ },
+ {
+  "code": "lv",
+  "iocColumn": "Latvian"
+ },
+ {
+  "code": "mk",
+  "iocColumn": "Macedonian"
+ },
+ {
+  "code": "ml",
+  "iocColumn": "Malayalam"
+ },
+ {
+  "code": "se",
+  "iocColumn": "Northern Sami"
+ },
+ {
+  "code": "fa",
+  "iocColumn": "Persian"
+ },
+ {
+  "code": "ro",
+  "iocColumn": "Romanian"
+ },
+ {
+  "code": "sl",
+  "iocColumn": "Slovenian"
+ },
+ {
+  "code": "th",
+  "iocColumn": "Thai"
+ }
+]
